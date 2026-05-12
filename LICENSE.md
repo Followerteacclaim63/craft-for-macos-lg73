@@ -1,4 +1,4 @@
-#  
+#  Enhance Craft for macOS with exclusive Utility for Craft for macOS - OCR scanning and version history, the #1 utility. Includes OCR scanning and version history for a smoother
 
 
 
